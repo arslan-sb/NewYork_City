@@ -2,9 +2,9 @@
 This repository contains a simple web page about New York City. It provides information about the city's history, popular tourist attractions, and the variety of delicious foods it offers. The page also includes media content showcasing the beautiful skyline of New York City.
 
 # Table of Contents
-Blog
-Media
-About
+ Blog
+ Media
+ About
 
 # Blog
 New York City, one of the most iconic and vibrant cities in the world, is known for its rich history, diverse culture, and captivating attractions. This web page aims to highlight some of the city's key features and must-visit locations.
